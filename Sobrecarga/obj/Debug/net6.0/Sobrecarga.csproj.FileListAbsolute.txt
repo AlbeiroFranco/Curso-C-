@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\Sobrecarga\obj\Debug\net6.0\refint\Sobrecarga.d
 C:\sourceCode\Curso C#\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.pdb
 C:\sourceCode\Curso C#\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\Sobrecarga\obj\Debug\net6.0\ref\Sobrecarga.dll
+C:\sourceCode\Curso-C-\Sobrecarga\bin\Debug\net6.0\Sobrecarga.exe
+C:\sourceCode\Curso-C-\Sobrecarga\bin\Debug\net6.0\Sobrecarga.deps.json
+C:\sourceCode\Curso-C-\Sobrecarga\bin\Debug\net6.0\Sobrecarga.runtimeconfig.json
+C:\sourceCode\Curso-C-\Sobrecarga\bin\Debug\net6.0\Sobrecarga.dll
+C:\sourceCode\Curso-C-\Sobrecarga\bin\Debug\net6.0\Sobrecarga.pdb
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.dll
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\refint\Sobrecarga.dll
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.pdb
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\Sobrecarga.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\Sobrecarga\obj\Debug\net6.0\ref\Sobrecarga.dll

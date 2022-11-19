@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\Foreach\obj\Debug\net6.0\refint\Foreach.dll
 C:\sourceCode\Curso C#\Variables\Foreach\obj\Debug\net6.0\Foreach.pdb
 C:\sourceCode\Curso C#\Variables\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\Foreach\obj\Debug\net6.0\ref\Foreach.dll
+C:\sourceCode\Curso-C-\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\sourceCode\Curso-C-\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\sourceCode\Curso-C-\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\sourceCode\Curso-C-\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\sourceCode\Curso-C-\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\Foreach\obj\Debug\net6.0\ref\Foreach.dll

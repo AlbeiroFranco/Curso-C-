@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\TipoDeDatos\obj\Debug\net6.0\refint\TipoDeDatos
 C:\sourceCode\Curso C#\Variables\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.pdb
 C:\sourceCode\Curso C#\Variables\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\TipoDeDatos\obj\Debug\net6.0\ref\TipoDeDatos.dll
+C:\sourceCode\Curso-C-\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.exe
+C:\sourceCode\Curso-C-\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.deps.json
+C:\sourceCode\Curso-C-\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.runtimeconfig.json
+C:\sourceCode\Curso-C-\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.dll
+C:\sourceCode\Curso-C-\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.pdb
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.dll
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\refint\TipoDeDatos.dll
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.pdb
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\TipoDeDatos\obj\Debug\net6.0\ref\TipoDeDatos.dll

@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll
 C:\sourceCode\Curso C#\Variables\Tuplas\obj\Debug\net6.0\Tuplas.pdb
 C:\sourceCode\Curso C#\Variables\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll
+C:\sourceCode\Curso-C-\Tuplas\bin\Debug\net6.0\Tuplas.exe
+C:\sourceCode\Curso-C-\Tuplas\bin\Debug\net6.0\Tuplas.deps.json
+C:\sourceCode\Curso-C-\Tuplas\bin\Debug\net6.0\Tuplas.runtimeconfig.json
+C:\sourceCode\Curso-C-\Tuplas\bin\Debug\net6.0\Tuplas.dll
+C:\sourceCode\Curso-C-\Tuplas\bin\Debug\net6.0\Tuplas.pdb
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.dll
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.pdb
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll

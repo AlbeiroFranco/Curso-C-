@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\Priopiedades\obj\Debug\net6.0\refint\Priopiedad
 C:\sourceCode\Curso C#\Variables\Priopiedades\obj\Debug\net6.0\Priopiedades.pdb
 C:\sourceCode\Curso C#\Variables\Priopiedades\obj\Debug\net6.0\Priopiedades.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\Priopiedades\obj\Debug\net6.0\ref\Priopiedades.dll
+C:\sourceCode\Curso-C-\Priopiedades\bin\Debug\net6.0\Priopiedades.exe
+C:\sourceCode\Curso-C-\Priopiedades\bin\Debug\net6.0\Priopiedades.deps.json
+C:\sourceCode\Curso-C-\Priopiedades\bin\Debug\net6.0\Priopiedades.runtimeconfig.json
+C:\sourceCode\Curso-C-\Priopiedades\bin\Debug\net6.0\Priopiedades.dll
+C:\sourceCode\Curso-C-\Priopiedades\bin\Debug\net6.0\Priopiedades.pdb
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.dll
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\refint\Priopiedades.dll
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.pdb
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\Priopiedades.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\Priopiedades\obj\Debug\net6.0\ref\Priopiedades.dll

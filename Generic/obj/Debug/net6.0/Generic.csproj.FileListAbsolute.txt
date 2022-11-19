@@ -13,3 +13,18 @@ C:\sourceCode\Curso C#\Variables\Generic\obj\Debug\net6.0\refint\Generic.dll
 C:\sourceCode\Curso C#\Variables\Generic\obj\Debug\net6.0\Generic.pdb
 C:\sourceCode\Curso C#\Variables\Generic\obj\Debug\net6.0\Generic.genruntimeconfig.cache
 C:\sourceCode\Curso C#\Variables\Generic\obj\Debug\net6.0\ref\Generic.dll
+C:\sourceCode\Curso-C-\Generic\bin\Debug\net6.0\Generic.exe
+C:\sourceCode\Curso-C-\Generic\bin\Debug\net6.0\Generic.deps.json
+C:\sourceCode\Curso-C-\Generic\bin\Debug\net6.0\Generic.runtimeconfig.json
+C:\sourceCode\Curso-C-\Generic\bin\Debug\net6.0\Generic.dll
+C:\sourceCode\Curso-C-\Generic\bin\Debug\net6.0\Generic.pdb
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.dll
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\refint\Generic.dll
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.pdb
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\Generic.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\Generic\obj\Debug\net6.0\ref\Generic.dll

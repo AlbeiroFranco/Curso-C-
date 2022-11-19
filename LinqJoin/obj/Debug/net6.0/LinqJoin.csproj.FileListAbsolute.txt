@@ -1,0 +1,15 @@
+C:\sourceCode\Curso-C-\LinqJoin\bin\Debug\net6.0\LinqJoin.exe
+C:\sourceCode\Curso-C-\LinqJoin\bin\Debug\net6.0\LinqJoin.deps.json
+C:\sourceCode\Curso-C-\LinqJoin\bin\Debug\net6.0\LinqJoin.runtimeconfig.json
+C:\sourceCode\Curso-C-\LinqJoin\bin\Debug\net6.0\LinqJoin.dll
+C:\sourceCode\Curso-C-\LinqJoin\bin\Debug\net6.0\LinqJoin.pdb
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.AssemblyReference.cache
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfoInputs.cache
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.AssemblyInfo.cs
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.dll
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\refint\LinqJoin.dll
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.pdb
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\LinqJoin.genruntimeconfig.cache
+C:\sourceCode\Curso-C-\LinqJoin\obj\Debug\net6.0\ref\LinqJoin.dll
