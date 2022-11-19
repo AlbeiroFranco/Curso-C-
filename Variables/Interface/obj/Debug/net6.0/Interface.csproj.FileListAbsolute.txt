@@ -1,0 +1,15 @@
+C:\sourceCode\Curso C#\Variables\Interface\bin\Debug\net6.0\Interface.exe
+C:\sourceCode\Curso C#\Variables\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\sourceCode\Curso C#\Variables\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\sourceCode\Curso C#\Variables\Interface\bin\Debug\net6.0\Interface.dll
+C:\sourceCode\Curso C#\Variables\Interface\bin\Debug\net6.0\Interface.pdb
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.dll
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.pdb
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\sourceCode\Curso C#\Variables\Interface\obj\Debug\net6.0\ref\Interface.dll

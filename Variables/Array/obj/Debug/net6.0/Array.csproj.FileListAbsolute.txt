@@ -1,0 +1,15 @@
+C:\sourceCode\Curso C#\Variables\Array\bin\Debug\net6.0\Array.exe
+C:\sourceCode\Curso C#\Variables\Array\bin\Debug\net6.0\Array.deps.json
+C:\sourceCode\Curso C#\Variables\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\sourceCode\Curso C#\Variables\Array\bin\Debug\net6.0\Array.dll
+C:\sourceCode\Curso C#\Variables\Array\bin\Debug\net6.0\Array.pdb
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.dll
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\refint\Array.dll
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.pdb
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\sourceCode\Curso C#\Variables\Array\obj\Debug\net6.0\ref\Array.dll

@@ -1,0 +1,15 @@
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.exe
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.deps.json
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.runtimeconfig.json
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.dll
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\bin\Debug\net6.0\ClasesyObjetos.pdb
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.csproj.AssemblyReference.cache
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.AssemblyInfoInputs.cache
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.AssemblyInfo.cs
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.dll
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\refint\ClasesyObjetos.dll
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.pdb
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ClasesyObjetos.genruntimeconfig.cache
+C:\sourceCode\Curso C#\Variables\ClasesyObjetos\obj\Debug\net6.0\ref\ClasesyObjetos.dll

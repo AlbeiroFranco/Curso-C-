@@ -1,0 +1,15 @@
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\bin\Debug\net6.0\ListoCommonMethods.exe
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\bin\Debug\net6.0\ListoCommonMethods.deps.json
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\bin\Debug\net6.0\ListoCommonMethods.runtimeconfig.json
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\bin\Debug\net6.0\ListoCommonMethods.dll
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\bin\Debug\net6.0\ListoCommonMethods.pdb
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.csproj.AssemblyReference.cache
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.AssemblyInfoInputs.cache
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.AssemblyInfo.cs
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.dll
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\refint\ListoCommonMethods.dll
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.pdb
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ListoCommonMethods.genruntimeconfig.cache
+C:\sourceCode\Curso C#\Variables\ListoCommonMethods\obj\Debug\net6.0\ref\ListoCommonMethods.dll

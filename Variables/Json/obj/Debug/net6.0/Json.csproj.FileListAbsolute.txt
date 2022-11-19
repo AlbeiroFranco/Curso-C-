@@ -1,0 +1,15 @@
+C:\sourceCode\Curso C#\Variables\Json\bin\Debug\net6.0\Json.exe
+C:\sourceCode\Curso C#\Variables\Json\bin\Debug\net6.0\Json.deps.json
+C:\sourceCode\Curso C#\Variables\Json\bin\Debug\net6.0\Json.runtimeconfig.json
+C:\sourceCode\Curso C#\Variables\Json\bin\Debug\net6.0\Json.dll
+C:\sourceCode\Curso C#\Variables\Json\bin\Debug\net6.0\Json.pdb
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.csproj.AssemblyReference.cache
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.AssemblyInfoInputs.cache
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.AssemblyInfo.cs
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.csproj.CoreCompileInputs.cache
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.dll
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\refint\Json.dll
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.pdb
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\Json.genruntimeconfig.cache
+C:\sourceCode\Curso C#\Variables\Json\obj\Debug\net6.0\ref\Json.dll
