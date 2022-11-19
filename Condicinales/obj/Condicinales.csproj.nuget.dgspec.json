@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Condicinales\\Condicinales.csproj": {}
+    "C:\\sourceCode\\Curso-C-\\Condicinales\\Condicinales.csproj": {}
   },
   "projects": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Condicinales\\Condicinales.csproj": {
+    "C:\\sourceCode\\Curso-C-\\Condicinales\\Condicinales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\Condicinales\\Condicinales.csproj",
+        "projectUniqueName": "C:\\sourceCode\\Curso-C-\\Condicinales\\Condicinales.csproj",
         "projectName": "Condicinales",
-        "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\Condicinales\\Condicinales.csproj",
+        "projectPath": "C:\\sourceCode\\Curso-C-\\Condicinales\\Condicinales.csproj",
         "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\Condicinales\\obj\\",
+        "outputPath": "C:\\sourceCode\\Curso-C-\\Condicinales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

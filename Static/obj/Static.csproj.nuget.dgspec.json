@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Static\\Static.csproj": {}
+    "C:\\sourceCode\\Curso-C-\\Static\\Static.csproj": {}
   },
   "projects": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Static\\Static.csproj": {
+    "C:\\sourceCode\\Curso-C-\\Static\\Static.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\Static\\Static.csproj",
+        "projectUniqueName": "C:\\sourceCode\\Curso-C-\\Static\\Static.csproj",
         "projectName": "Static",
-        "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\Static\\Static.csproj",
+        "projectPath": "C:\\sourceCode\\Curso-C-\\Static\\Static.csproj",
         "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\Static\\obj\\",
+        "outputPath": "C:\\sourceCode\\Curso-C-\\Static\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

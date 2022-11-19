@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xqc9lHGEjzCHGMJXAbgA59C92n6TC5GqKZG8gK/+IMbPcrYdwk8V6k5H7W9CN91sa1Zv1QlvV5hym3xYoCdNKA==",
+  "dgSpecHash": "gl7rSWzx8xETzoRI5oTxasuNIIujHwf7t9ocFBPurG90rr/fIW8fD5pe+RovfwU7LZXBDJx0bdF2lN7LCq9Oxw==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\Foreach\\Foreach.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\Foreach\\Foreach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

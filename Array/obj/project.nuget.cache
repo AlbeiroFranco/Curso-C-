@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6Ax6TKq07bNnKeRpYbO+0QtltrCXTfJziGc4Kq8yGzDJVXyYjLE9XjnVeQ4rlqyIbExH+92wb83H5SHrFNYNQ==",
+  "dgSpecHash": "Stjwd1gih7srhuKm8mMv6jc7UfXmmsi/sPF6ypBkNBsvjr1H02wbPNgWVPB9hV/Can2Yhud0doAnDKmqK6f3FQ==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\Array\\Array.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\Array\\Array.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

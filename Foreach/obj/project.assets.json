@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\Foreach\\Foreach.csproj",
+      "projectUniqueName": "C:\\sourceCode\\Curso-C-\\Foreach\\Foreach.csproj",
       "projectName": "Foreach",
-      "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\Foreach\\Foreach.csproj",
+      "projectPath": "C:\\sourceCode\\Curso-C-\\Foreach\\Foreach.csproj",
       "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-      "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\Foreach\\obj\\",
+      "outputPath": "C:\\sourceCode\\Curso-C-\\Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

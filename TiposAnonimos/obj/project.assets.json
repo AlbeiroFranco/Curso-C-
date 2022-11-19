@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\TiposAnonimos\\TiposAnonimos.csproj",
+      "projectUniqueName": "C:\\sourceCode\\Curso-C-\\TiposAnonimos\\TiposAnonimos.csproj",
       "projectName": "TiposAnonimos",
-      "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\TiposAnonimos\\TiposAnonimos.csproj",
+      "projectPath": "C:\\sourceCode\\Curso-C-\\TiposAnonimos\\TiposAnonimos.csproj",
       "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-      "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\TiposAnonimos\\obj\\",
+      "outputPath": "C:\\sourceCode\\Curso-C-\\TiposAnonimos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

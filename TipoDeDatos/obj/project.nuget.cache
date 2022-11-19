@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLWEfY/xsxOLgNsaeQhXOuih+6GGpywNgwy9yuljVqWfXt4ikAE8xDCix7YmoCesXK8xXNIbBWCCinvjF7lEvg==",
+  "dgSpecHash": "G8uv1ni+Js4LMumuL2XkPNaIb9gniiDqcaJ41XCoseww13q3KzE9oaHpyjRovgdvtfVg5nwyoydR30lvhITNiQ==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\TipoDeDatos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

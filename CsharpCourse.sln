@@ -43,13 +43,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreach", "Foreach\Foreach.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCommonMethods", "ListoCommonMethods\ListCommonMethods.csproj", "{F68CAC37-41DD-4BC0-81A9-C16FF1989C6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{2DC30358-0C89-4AB7-82A6-44FE0DCD8C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{2DC30358-0C89-4AB7-82A6-44FE0DCD8C03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{C91BD7E3-902A-4F62-BDFB-3CBD325D8F8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuplas", "Tuplas\Tuplas.csproj", "{C91BD7E3-902A-4F62-BDFB-3CBD325D8F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{6EE58691-ECDC-48D8-96E2-54F61DCDA8CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{6EE58691-ECDC-48D8-96E2-54F61DCDA8CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsPersonalize", "ExceptionsPersonalize\ExceptionsPersonalize.csproj", "{3CB882A9-4946-47C3-98E9-A2FAF9829774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionsPersonalize", "ExceptionsPersonalize\ExceptionsPersonalize.csproj", "{3CB882A9-4946-47C3-98E9-A2FAF9829774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CD8A5F30-D4F0-493A-879C-2BE57C792CD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{3CB882A9-4946-47C3-98E9-A2FAF9829774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB882A9-4946-47C3-98E9-A2FAF9829774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB882A9-4946-47C3-98E9-A2FAF9829774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8A5F30-D4F0-493A-879C-2BE57C792CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8A5F30-D4F0-493A-879C-2BE57C792CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8A5F30-D4F0-493A-879C-2BE57C792CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8A5F30-D4F0-493A-879C-2BE57C792CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD8Ffw5IYnlfl0ngY2xfSCrNroReGaZZl7Gw4GK6qu5ZyjNgj78HVWWdOI4P4l0tJ/jLP6nhmnJ3srgWO2X5CQ==",
+  "dgSpecHash": "VmN/7o2+oUlojwH+dpvSa0AqKnvG/UoS9Zj9wYfXnETIsSi+G+sME4JQflp5aQoucO1ZOetNVaRQpZkE1cSH/Q==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\SwitchCase\\SwitchCase.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\SwitchCase\\SwitchCase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

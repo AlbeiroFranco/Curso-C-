@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceCode\\Curso C#\\Variables\\SobreEscritura\\SobreEscritura.csproj": {}
+    "C:\\sourceCode\\Curso-C-\\SobreEscritura\\SobreEscritura.csproj": {}
   },
   "projects": {
-    "C:\\sourceCode\\Curso C#\\Variables\\SobreEscritura\\SobreEscritura.csproj": {
+    "C:\\sourceCode\\Curso-C-\\SobreEscritura\\SobreEscritura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\SobreEscritura\\SobreEscritura.csproj",
+        "projectUniqueName": "C:\\sourceCode\\Curso-C-\\SobreEscritura\\SobreEscritura.csproj",
         "projectName": "SobreEscritura",
-        "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\SobreEscritura\\SobreEscritura.csproj",
+        "projectPath": "C:\\sourceCode\\Curso-C-\\SobreEscritura\\SobreEscritura.csproj",
         "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\SobreEscritura\\obj\\",
+        "outputPath": "C:\\sourceCode\\Curso-C-\\SobreEscritura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

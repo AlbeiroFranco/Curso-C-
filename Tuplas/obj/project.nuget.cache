@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yq+lh12suEBET+YuKvXw7gu+XdYh71mL0igwYVRFEImBB6n62s3DZLQGM+fQEyI4ll2HZSlKpqgQBlnPJZj12Q==",
+  "dgSpecHash": "KyyCFCzQI673VdYFtfp8AA/CRWNEN670pfDy+foY0NUz45cUBYF/Rsngmo8xDzE/B8mYv9yZJiwIHe5MPwmxCg==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\Tuplas\\Tuplas.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\Tuplas\\Tuplas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

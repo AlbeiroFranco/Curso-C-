@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4Tks20t/T9sStUlzimy5IYJfQlTvE9yQ1d7LIUvx+b2pAe9DxI9THDB4Jd2FEKD3iOhKissC5J+mjiLgyLYLQ==",
+  "dgSpecHash": "sgiZBVjTwYmKva7Z/7Xy1RDzqG2Yzqgjw5B4zEICYuv/ieIQG59Q2i+m6Go22MeZJUDxlkaRUv0cYZNEe/MxtA==",
   "success": true,
-  "projectFilePath": "C:\\sourceCode\\Curso C#\\Variables\\ExceptionsPersonalize\\ExceptionsPersonalize.csproj",
+  "projectFilePath": "C:\\sourceCode\\Curso-C-\\ExceptionsPersonalize\\ExceptionsPersonalize.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

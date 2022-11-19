@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Array\\Array.csproj": {}
+    "C:\\sourceCode\\Curso-C-\\Array\\Array.csproj": {}
   },
   "projects": {
-    "C:\\sourceCode\\Curso C#\\Variables\\Array\\Array.csproj": {
+    "C:\\sourceCode\\Curso-C-\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\sourceCode\\Curso-C-\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\Array\\Array.csproj",
+        "projectPath": "C:\\sourceCode\\Curso-C-\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\Array\\obj\\",
+        "outputPath": "C:\\sourceCode\\Curso-C-\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

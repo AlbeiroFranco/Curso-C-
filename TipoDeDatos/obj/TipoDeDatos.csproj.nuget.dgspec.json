@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj": {}
+    "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\TipoDeDatos.csproj": {}
   },
   "projects": {
-    "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj": {
+    "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\TipoDeDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj",
+        "projectUniqueName": "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\TipoDeDatos.csproj",
         "projectName": "TipoDeDatos",
-        "projectPath": "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj",
+        "projectPath": "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\TipoDeDatos.csproj",
         "packagesPath": "C:\\Users\\jose.franco\\.nuget\\packages\\",
-        "outputPath": "C:\\sourceCode\\Curso C#\\Variables\\TipoDeDatos\\obj\\",
+        "outputPath": "C:\\sourceCode\\Curso-C-\\TipoDeDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
